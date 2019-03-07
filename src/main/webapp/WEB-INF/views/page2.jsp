@@ -8,7 +8,7 @@
 </head>
 
 <h2>Benvenuto in pagina 2</h2>
-<a href="/maven-webapp">home</a>
+<a href="/maven-webapp/">home</a>
 <body>
 
 </body>
